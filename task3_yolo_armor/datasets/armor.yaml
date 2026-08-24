@@ -1,0 +1,4 @@
+train: armor/images/train
+val: armor/images/val
+names:
+  0: armor
